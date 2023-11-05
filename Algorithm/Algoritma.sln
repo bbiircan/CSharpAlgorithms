@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma2", "Algoritma\Algoritma2.csproj", "{E30D798A-7E64-4E81-A2FA-0C43FFE84F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma3", "Algoritma3\Algoritma3.csproj", "{BD032136-5347-41A7-8F05-30F8D33F695B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma1", "Algoritma1\Algoritma1.csproj", "{711A7BDB-8782-42CD-8660-7DBFBB3A74A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma4", "Algoritma4\Algoritma4.csproj", "{C918E5D5-690D-42F0-84A8-9322712062C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma5", "Algoritma5\Algoritma5.csproj", "{844A7B89-6BCD-4D82-984B-639E848A42D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma6", "Algoritma6\Algoritma6.csproj", "{D5C578C9-43F4-4447-A0D6-1B4A2FD29B40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma7", "Algoritma7\Algoritma7.csproj", "{379B5991-09B1-4932-BC4E-3EB1E3372AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E30D798A-7E64-4E81-A2FA-0C43FFE84F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30D798A-7E64-4E81-A2FA-0C43FFE84F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30D798A-7E64-4E81-A2FA-0C43FFE84F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30D798A-7E64-4E81-A2FA-0C43FFE84F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD032136-5347-41A7-8F05-30F8D33F695B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD032136-5347-41A7-8F05-30F8D33F695B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD032136-5347-41A7-8F05-30F8D33F695B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD032136-5347-41A7-8F05-30F8D33F695B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{711A7BDB-8782-42CD-8660-7DBFBB3A74A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711A7BDB-8782-42CD-8660-7DBFBB3A74A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711A7BDB-8782-42CD-8660-7DBFBB3A74A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711A7BDB-8782-42CD-8660-7DBFBB3A74A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C918E5D5-690D-42F0-84A8-9322712062C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C918E5D5-690D-42F0-84A8-9322712062C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C918E5D5-690D-42F0-84A8-9322712062C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C918E5D5-690D-42F0-84A8-9322712062C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844A7B89-6BCD-4D82-984B-639E848A42D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844A7B89-6BCD-4D82-984B-639E848A42D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844A7B89-6BCD-4D82-984B-639E848A42D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844A7B89-6BCD-4D82-984B-639E848A42D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C578C9-43F4-4447-A0D6-1B4A2FD29B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C578C9-43F4-4447-A0D6-1B4A2FD29B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C578C9-43F4-4447-A0D6-1B4A2FD29B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C578C9-43F4-4447-A0D6-1B4A2FD29B40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379B5991-09B1-4932-BC4E-3EB1E3372AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379B5991-09B1-4932-BC4E-3EB1E3372AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379B5991-09B1-4932-BC4E-3EB1E3372AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379B5991-09B1-4932-BC4E-3EB1E3372AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E09BE1C-2ED9-493F-A981-D121F79F5FFF}
+	EndGlobalSection
+EndGlobal

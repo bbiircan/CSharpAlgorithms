@@ -1,0 +1,7 @@
+C:\Users\birca\OneDrive\Masaüstü\Algoritma\Algoritma3\bin\Debug\Algoritma3.exe.config
+C:\Users\birca\OneDrive\Masaüstü\Algoritma\Algoritma3\bin\Debug\Algoritma3.exe
+C:\Users\birca\OneDrive\Masaüstü\Algoritma\Algoritma3\bin\Debug\Algoritma3.pdb
+C:\Users\birca\OneDrive\Masaüstü\Algoritma\Algoritma3\obj\Debug\Algoritma3.csproj.AssemblyReference.cache
+C:\Users\birca\OneDrive\Masaüstü\Algoritma\Algoritma3\obj\Debug\Algoritma3.csproj.CoreCompileInputs.cache
+C:\Users\birca\OneDrive\Masaüstü\Algoritma\Algoritma3\obj\Debug\Algoritma3.exe
+C:\Users\birca\OneDrive\Masaüstü\Algoritma\Algoritma3\obj\Debug\Algoritma3.pdb
